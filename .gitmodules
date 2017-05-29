@@ -1,0 +1,6 @@
+[submodule "vimrc"]
+	path = vimrc
+	url = git@git.tafsm.org:tsasaki/vimrc
+[submodule "tafsm-vim"]
+	path = tafsm-vim
+	url = git@git.tafsm.org:tsasaki/vimrc
